@@ -1,4 +1,4 @@
-import {SphericalUtil, PolyUtil} from "node-geometry-library";
+const {SphericalUtil, PolyUtil} = require("node-geometry-library");
 
 
 
