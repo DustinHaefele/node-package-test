@@ -1,0 +1,17 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "testing the install of a node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Dustin Haefele",
+  "license": "ISC",
+  "dependencies": {
+    "node-geometry-library": "^1.2.3"
+  }
+}
